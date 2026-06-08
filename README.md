@@ -12,7 +12,6 @@
 - [Blog & Newsletter](#blog--newsletter)
 - [Kênh YouTube](#kênh-youtube)
 - [Khóa học miễn phí](#khóa-học-miễn-phí)
-- [Podcast](#podcast)
 - [Công cụ & Boilerplate](#công-cụ--boilerplate)
 - [Tài nguyên phỏng vấn](#tài-nguyên-phỏng-vấn)
 - [Việc làm IT](#việc-làm-it)
@@ -43,11 +42,11 @@
 ## Kênh YouTube
 
 - [F8 - Fullstack](https://www.youtube.com/@F8VNOfficial) - Khóa học lập trình miễn phí chất lượng cao (JS, HTML/CSS, Node.js...).
-- [Lập Trình Không Khó](https://www.youtube.com/@laptrinhhocai) - Hướng dẫn lập trình từ cơ bản đến nâng cao.
-- [Tek4.vn](https://www.youtube.com/@Tek4vn) - Khóa học Python, Machine Learning.
-- [HowKteam](https://www.youtube.com/@howkteam) - Lập trình C#, Unity, backend.
-- [Dev Công Nghệ](https://www.youtube.com/@devcongnghe) - Chia sẻ về DevOps, Docker, Linux.
-- [Toi Di Code Dao](https://www.youtube.com/@toidicodeDao) - Career và soft skills cho lập trình viên.
+- [Lập Trình Không Khó](https://www.youtube.com/LapTrinhKhongKho) - Hướng dẫn lập trình từ cơ bản đến nâng cao.
+- [Tek4](https://www.youtube.com/channel/UCGRfBpaJDyB__xhookKs4rQ) - Khóa học Python, Machine Learning.
+- [KTeam](https://www.youtube.com/channel/UCBw4b26KZrBvHRPBjOCw6UQ) - Lập trình C#, Unity, backend.
+- [DevOps VietNam](https://www.youtube.com/@DevOpsVietNam) - Chia sẻ về DevOps, Docker, Kubernetes, Linux.
+- [Toi Di Code Dao](https://www.youtube.com/channel/UCdV9tn79v3ecSDpC1AjVKaw) - Career và soft skills cho lập trình viên.
 
 ## Khóa học miễn phí
 
@@ -56,12 +55,6 @@
 - [Codelearn.io](https://codelearn.io) - Học lập trình online với bài tập thực hành và lộ trình rõ ràng.
 - [VNPRO Academy](https://vnpro.vn) - Cisco, networking, bảo mật.
 - [OpenCodeVN](https://opencode.vn) - Cộng đồng học lập trình mã nguồn mở.
-
-## Podcast
-
-- [Vietnam Tech Podcast](https://open.spotify.com/show/6W3BHCFhN0FJTZ2PJIM7qJ) - Podcast về công nghệ và career từ các senior developer Việt Nam.
-- [Grokking Vietnam Podcast](https://open.spotify.com/show/0GRcUcOhFD4B4zTZ2oqNjz) - Phỏng vấn engineers và founders công nghệ.
-- [Coder's Diary](https://open.spotify.com/show/7gd3VE9lHFpBYiVxWLG9Bb) - Nhật ký của lập trình viên, chia sẻ về công việc và cuộc sống.
 
 ## Công cụ & Boilerplate
 
