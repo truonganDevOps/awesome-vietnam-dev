@@ -20,24 +20,21 @@
 
 ## Cộng đồng
 
-- [Vietnam Developer Community (VDC)](https://www.facebook.com/groups/vietnamdevelopercommunity) - Group Facebook lớn nhất cho lập trình viên Việt Nam.
-- [Lập Trình Không Khó](https://www.facebook.com/groups/laptrinhhocai) - Cộng đồng chia sẻ kiến thức lập trình.
-- [Vietnam Web Development](https://www.facebook.com/groups/webdevelopment.vn) - Nhóm chuyên về web development.
-- [200Lab Events](https://200lab.io) - Cộng đồng và sự kiện công nghệ cho developer Việt Nam.
+- [J2TEAM Community](https://www.facebook.com/groups/j2team.community) - Cộng đồng lập trình, bảo mật và công nghệ lớn và năng động nhất Việt Nam.
+- [Hội Lập Trình Viên Việt Nam](https://www.facebook.com/groups/hotrolaptrinh) - Nhóm hỗ trợ và chia sẻ kiến thức lập trình.
+- [Cộng đồng Dev&Tech Việt Nam](https://www.facebook.com/groups/vietnamdevtech) - Thảo luận về dev và công nghệ.
+- [Cộng đồng Coder Việt Nam](https://www.facebook.com/groups/codervietnam) - Cộng đồng coder lớn nhất Việt Nam.
+- [Web Developer Việt Nam](https://www.facebook.com/groups/qhonline) - Nhóm chuyên về web development.
 - [WeBuild Community](https://webuild.community) - Cộng đồng kỹ sư phần mềm Việt Nam (Discord + blog).
-- [Vietnam JavaScript Community](https://www.facebook.com/groups/vietnamjs) - Cộng đồng JavaScript tiếng Việt.
-- [ITviec Blog Community](https://itviec.com/blog) - Blog và cộng đồng IT Việt Nam.
+- [200Lab](https://200lab.io) - Cộng đồng và sự kiện công nghệ cho developer Việt Nam.
 
 ## Blog & Newsletter
 
 - [Viblo](https://viblo.asia) - Nền tảng chia sẻ kiến thức công nghệ lớn nhất Việt Nam.
-- [Kipalog](https://kipalog.com) - Blog kỹ thuật của lập trình viên Việt.
 - [WeBuild Blog](https://webuild.community/blog) - Bài viết kỹ thuật chất lượng cao từ senior dev.
 - [Toidicodedao](https://toidicodedao.com) - Blog chia sẻ về career, kỹ năng mềm và lập trình.
-- [Completejavascript](https://completejavascript.com) - Blog chuyên sâu về JavaScript.
-- [Allaravel](https://allaravel.com) - Blog chuyên về Laravel và PHP.
-- [Ren's Blog](https://rens.blog) - Blog kỹ thuật về backend và system design.
-- [The Full-Stack Blog Vietnam](https://fullstack.edu.vn/blog) - Bài viết từ F8 về web development.
+- [Complete JavaScript](https://completejavascript.com) - Blog chuyên sâu về JavaScript tiếng Việt.
+- [F8 Blog](https://fullstack.edu.vn/blog) - Bài viết về web development từ F8 Fullstack.
 
 ## Kênh YouTube
 
