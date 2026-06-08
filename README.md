@@ -24,7 +24,7 @@
 - [Vietnam Developer Community (VDC)](https://www.facebook.com/groups/vietnamdevelopercommunity) - Group Facebook lớn nhất cho lập trình viên Việt Nam.
 - [Lập Trình Không Khó](https://www.facebook.com/groups/laptrinhhocai) - Cộng đồng chia sẻ kiến thức lập trình.
 - [Vietnam Web Development](https://www.facebook.com/groups/webdevelopment.vn) - Nhóm chuyên về web development.
-- [DevFest Vietnam](https://devfest.gdgvietnam.com) - Sự kiện công nghệ thường niên do GDG tổ chức.
+- [200Lab Events](https://200lab.io) - Cộng đồng và sự kiện công nghệ cho developer Việt Nam.
 - [WeBuild Community](https://webuild.community) - Cộng đồng kỹ sư phần mềm Việt Nam (Discord + blog).
 - [Vietnam JavaScript Community](https://www.facebook.com/groups/vietnamjs) - Cộng đồng JavaScript tiếng Việt.
 - [ITviec Blog Community](https://itviec.com/blog) - Blog và cộng đồng IT Việt Nam.
@@ -53,7 +53,7 @@
 
 - [F8 (Fullstack.edu.vn)](https://fullstack.edu.vn) - Khóa học JavaScript, HTML/CSS, ReactJS hoàn toàn miễn phí.
 - [Tek4.vn](https://tek4.vn) - Khóa học Python, AI, Machine Learning.
-- [EduOnline](https://eduonline.vn) - Khóa học công nghệ online.
+- [Codelearn.io](https://codelearn.io) - Học lập trình online với bài tập thực hành và lộ trình rõ ràng.
 - [VNPRO Academy](https://vnpro.vn) - Cisco, networking, bảo mật.
 - [OpenCodeVN](https://opencode.vn) - Cộng đồng học lập trình mã nguồn mở.
 
@@ -82,7 +82,7 @@
 
 - [ITviec](https://itviec.com) - Nền tảng tuyển dụng IT số 1 Việt Nam.
 - [TopDev](https://topdev.vn) - Tuyển dụng IT chất lượng cao.
-- [VietnamWorks IT](https://www.vietnamworks.com/it-software-jobs) - Việc làm IT trên VietnamWorks.
+- [VietnamWorks IT](https://www.vietnamworks.com) - Việc làm IT trên VietnamWorks.
 - [LinkedIn Vietnam Tech](https://www.linkedin.com/jobs/search/?location=Vietnam&f_I=96) - Việc làm công nghệ trên LinkedIn.
 - [Topcv](https://topcv.vn) - Tạo CV đẹp và tìm việc IT.
 
